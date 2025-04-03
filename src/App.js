@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import DynamicTreeAccordion from './component/accordion';
 import ProjectHeader from './component/header';
